@@ -1,0 +1,40 @@
+{
+  "_format": "hh-sol-cache-2",
+  "files": {
+    "/Users/therusetiawan/Documents/KULIAH/Semester 3/Teknologi Blockchain/crowdfunding/contracts/crowdfund.sol": {
+      "lastModificationDate": 1669270513323,
+      "contentHash": "c4658b6ffa614aceeafa57a4435cde3f",
+      "sourceName": "contracts/crowdfund.sol",
+      "solcConfig": {
+        "version": "0.5.8",
+        "settings": {
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        "0.5.8"
+      ],
+      "artifacts": [
+        "CrowdFund"
+      ]
+    }
+  }
+}
